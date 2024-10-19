@@ -1,0 +1,15 @@
+[
+    { "_id": 1, "title": "Bottle 1", "color": "Red", "price": 10.99, "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/eab6c7279b7d4860b1c40fe4ccd5e65a_9366/Stadium_Water_Bottle_750_ML_Red_IU7763_01_standard.jpg" },
+    { "_id": 2, "title": "Bottle 2", "color": "Blue", "price": 12.99, "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b9cbfe709c0448e7903e2f59124096ea_9366/Stadium_Water_Bottle_750_ML_Blue_IU7762_01_standard.jpg" },
+    { "_id": 3, "title": "Bottle 3", "color": "Green", "price": 8.99, "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/da6d186519ce4446808faf9e01887c7d_9366/Steel_Metal_Bottle_1L_Green_GC3371_01_standard.jpg" },
+    { "_id": 4, "title": "Bottle 4", "color": "Yellow", "price": 15.99, "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/74c6c516ae7c4f12a565cff1cf1ab30a_9366/adidas_by_Stella_McCartney_Bottle_Green_IW1611_HM1.jpg" },
+    { "_id": 5, "title": "Bottle 5", "color": "Purple", "price": 9.99, "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/17eb1bd519804486ada739d363794379_9366/Steel_Metal_Bottle_1L_Purple_IU9082_01_standard.jpg" },
+    { "_id": 6, "title": "Bottle 6", "color": "Orange", "price": 11.99, "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/022211fcf3014c6abaee6af24b13afff_9366/Steel_Straw_Metal_Bottle_600_ML_Turquoise_IU7773_01_standard.jpg" },
+    { "_id": 7, "title": "Bottle 7", "color": "Pink", "price": 7.99, "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a60c7ef5ff6e4a83a2f61cc68d0a19cf_9366/adidas_by_Stella_McCartney_Bottle_Pink_IT2313_01_standard.jpg" },
+    { "_id": 8, "title": "Bottle 8", "color": "Black", "price": 14.99, "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d45c762edbee4999a716f12a8c15b2bc_9366/Steel_Metal_Bottle_1L_Multicolor_IU7766_01_standard.jpg" },
+    { "_id": 9, "title": "Bottle 9", "color": "White", "price": 13.99, "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/822182dafd8c4c2ea92e32c05b76acc2_9366/Stadium_Water_Bottle_750_ML_White_IU7764_01_standard.jpg" },
+    { "_id": 10, "title": "Bottle 10", "color": "Brown", "price": 16.99, "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2790f6291cfa41399d39432cb0c58c1e_9366/Steel_Metal_Bottle_1L_Green_IU9083_01_standard.jpg" },
+    { "_id": 11, "title": "Bottle 11", "color": "Silver", "price": 18.99, "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/3a301bd7e432444ca14cae36000a041f_9366/Steel_Metal_Bottle_600_ML_Black_GA7368_01_standard.jpg" },
+    { "_id": 12, "title": "Bottle 12", "color": "Gold", "price": 19.99, "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/83e76af9d4074864adc2afa2001a3eb3_9366/Steel_Metal_Bottle_1L_Beige_GC3372_01_standard.jpg" }
+  ]
+  
